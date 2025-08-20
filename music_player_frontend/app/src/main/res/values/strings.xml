@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Music Library Player</string>
+    <string name="tab_library">Library</string>
+    <string name="tab_playlists">Playlists</string>
+    <string name="tab_player">Player</string>
+    <string name="search_hint">Search tracks</string>
+    <string name="no_results">No results</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="repeat">Repeat</string>
+    <string name="add_to_playlist">Add to Playlist</string>
+    <string name="create_playlist">Create Playlist</string>
+    <string name="playlist_name">Playlist name</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="empty_library">Your music library is empty</string>
+</resources>

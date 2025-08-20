@@ -1,0 +1,14 @@
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorSecondary">#FF4081</color>
+    <color name="colorAccent">#FFC107</color>
+    <color name="colorPrimaryVariant">#303F9F</color>
+    <color name="colorSecondaryVariant">#F50057</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorBackground">#FAFAFA</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorOnBackground">#212121</color>
+    <color name="colorOnSurface">#212121</color>
+    <color name="seekTrack">#BDBDBD</color>
+</resources>
