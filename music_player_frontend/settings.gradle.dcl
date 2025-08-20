@@ -29,6 +29,8 @@ defaults {
             dependencies {
                 implementation("org.junit.jupiter:junit-jupiter:5.10.2")
                 runtimeOnly("org.junit.platform:junit-platform-launcher")
+                // Add JUnit 4 for classic @Test style tests used by :app unit tests
+                implementation("junit:junit:4.13.2")
             }
         }
     }
@@ -42,6 +44,8 @@ defaults {
             dependencies {
                 implementation("org.junit.jupiter:junit-jupiter:5.10.2")
                 runtimeOnly("org.junit.platform:junit-platform-launcher")
+                // Add JUnit 4 for library unit tests as well to keep parity
+                implementation("junit:junit:4.13.2")
             }
         }
     }
